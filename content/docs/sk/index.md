@@ -1,9 +1,9 @@
 ---
 fm_version: "1.0.1"
-fm_build: "2025-10-28T00:00:00Z"
+fm_build: "2026-09-16T09:26:42Z"
 fm_version_comment: "Stabilné ID/slug pre navigáciu (hub + SK + EN)"
 id: SK_KNIFE_HOME
-guid: "7afa4bdc-bb40-490b-8697-c9bf7c3ba848"
+guid: "d8abcee0-cb8d-4c17-8508-d75c37dcc656"
 dao: "knife"
 title: "KNIFE – Prehľad (SK)"
 description: "Slovenská domovská stránka dokumentácie KNIFE."
@@ -14,15 +14,15 @@ type: ""
 priority: "no"
 tags: []
 locale: "sk"
-created: "2025-10-28"
-modified: "YYYY-MM-DDTHH:MM:SSZ"
+created: "2026-09-16"
+modified: "2026-09-16"
 status: "draft"
 privacy: "public"
 rights_holder_content: "Roman Kazička"
 rights_holder_system: "Roman Kazička (CAA/KNIFE/LetItGrow)"
 license: "CC-BY-NC-SA-4.0"
 disclaimer: "Use at your own risk. Methods provided as-is; participation is voluntary and context-aware."
-copyright: "© 2025 Roman Kazička / SystemThinking"
+copyright: "© 2026 Roman Kazička / SystemThinking"
 origin_repo: ""
 origin_repo_url: ""
 origin_commit: ""
@@ -37,14 +37,19 @@ sidebar_position: 1
 
 # KNIFE – Prehľad (SK)
 <!-- fm-visible: start -->
-> **GUID:** `7afa4bdc-bb40-490b-8697-c9bf7c3ba848`
+> **GUID:** `d8abcee0-cb8d-4c17-8508-d75c37dcc656`
 > **Status:** `backlog` · **Author:** Roman Kazička · **License:** CC-BY-NC-SA-4.0
 <!-- fm-visible: end -->
 Toto je hlavná stránka slovenskej dokumentácie.
+
+# Stručný prhľad o Projekte
+- 🔪 [KNIFE príspevky](./about.md)
 
 - 🔪 [KNIFE príspevky](./knifes/index.md)
 - ⚙️ [7Ds rámec](./7Ds/index.md)
 - 🧱 [SDLC – Framework](./sdlc/index.md)
 - 🎯 [Q12 – Framework](./q12/index.md)
 - 🏫 [STHDF – Framework](./sthdf/index.md)
+- 🏫 [STHDF – Dashboard](./class_sthdf_dashboard/index.md)
+- 🏫 [HELP](./help/index.md)
 - 🧭 [Späť na Hub](../index.md)
