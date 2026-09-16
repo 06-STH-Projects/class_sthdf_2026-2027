@@ -25,9 +25,8 @@ jobs:
         run: npm ci
         working-directory: publishing/docusaurus
 
-      - name: Build Docusaurus
-        run: npm run build
-        working-directory: publishing/docusaurus
+      - name: Sync content (SSOT) + build Docusaurus
+        run: SITE_URL=https://sthdf-2026.systemthinking.sk BASE_URL=/ make build MINIFY=0
 
       - name: Deploy to gh-pages-docusaurus/docs
         uses: peaceiris/actions-gh-pages@v3
@@ -39,4 +38,4 @@ jobs:
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
           # force_orphan: true  # iba pri úplne prvom nasadení tejto vetvy
-          # cname: knifes.systemthinking.sk  # ak používaš custom domain
+          # cname: sthdf-2026.systemthinking.sk  # ak používaš custom domain
