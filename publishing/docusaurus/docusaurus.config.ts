@@ -69,6 +69,9 @@ const config: Config = {
       },
       items: [
         { type: 'localeDropdown', position: 'left' },
+        { href: '/sk/knifes/', label: '🔪 KNIFE', position: 'left' },
+        { href: '/sk/7Ds/', label: '🧭 7Ds', position: 'left' },
+        { href: '/sk/sthdf/', label: '🏫 STHDF', position: 'left' },
         { to: '/sk/about', label: 'About', position: 'right' },
         { to: '/sk/help',  label: 'Help',  position: 'right' },
         {
