@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.931106+00:00"
+fm_build: "2026-09-16T10:48:51.293928+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "7bb474fb-a865-4603-94e6-7aa9ddadb219"
+guid: "02dc8ce0-49af-4565-a113-1eb13360d672"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,7 +131,7 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 [🏠 Domov](../../index.md) · [⬅️ Nahor](../)
 # ST051

@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.716509+00:00"
+fm_build: "2026-09-16T10:48:51.431707+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "97fc9fa9-45e4-4621-a40c-a5bef4372eff"
+guid: "ed43ffd6-7fa8-4c74-b900-7f760aa4f5be"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,6 +131,6 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 PRJ027 / 04-analysis / backlog.md

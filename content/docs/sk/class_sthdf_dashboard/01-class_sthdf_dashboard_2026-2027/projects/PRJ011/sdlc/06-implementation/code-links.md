@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.694181+00:00"
+fm_build: "2026-09-16T10:48:51.379507+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "fd6944f0-ebf9-41e0-848e-ba757ab62af3"
+guid: "98602ce6-dadb-49bd-bb38-83cda304dab0"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,6 +131,6 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 PRJ011 / 06-implementation / code-links.md

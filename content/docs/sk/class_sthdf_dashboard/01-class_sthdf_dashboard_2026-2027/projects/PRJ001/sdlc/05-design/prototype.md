@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.796858+00:00"
+fm_build: "2026-09-16T10:48:51.345733+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "ed2689c5-3991-40e3-abad-53b4ae077588"
+guid: "f22176d4-ed5c-4917-878b-566f71134b4a"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,6 +131,6 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 PRJ001 / 05-design / prototype.md

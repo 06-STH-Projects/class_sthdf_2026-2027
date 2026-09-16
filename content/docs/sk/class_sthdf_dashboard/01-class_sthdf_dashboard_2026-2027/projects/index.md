@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.690107+00:00"
+fm_build: "2026-09-16T10:48:51.474527+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "66280d5f-2a08-48bf-aaa2-f9aba1244413"
+guid: "79deba7d-0831-4959-b676-feabf4e36484"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,7 +131,7 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 - [PRJ001](./PRJ001/index.md)
 - [PRJ002](./PRJ002/index.md)
@@ -163,3 +163,13 @@ fm_reserved2: ""
 - [PRJ028](./PRJ028/index.md)
 - [PRJ029](./PRJ029/index.md)
 - [PRJ030](./PRJ030/index.md)
+- [PRJ031](./PRJ031/index.md)
+- [PRJ032](./PRJ032/index.md)
+- [PRJ033](./PRJ033/index.md)
+- [PRJ034](./PRJ034/index.md)
+- [PRJ035](./PRJ035/index.md)
+- [PRJ036](./PRJ036/index.md)
+- [PRJ037](./PRJ037/index.md)
+- [PRJ038](./PRJ038/index.md)
+- [PRJ039](./PRJ039/index.md)
+- [PRJ040](./PRJ040/index.md)

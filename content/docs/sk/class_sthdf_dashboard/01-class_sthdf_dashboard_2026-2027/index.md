@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.688471+00:00"
+fm_build: "2026-09-16T10:48:51.157338+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -15,7 +15,7 @@ fm_version_comment: ""
 id: "class_sthdf_dashboard_2026-2027"
 
 # Unikátne UUID – generuje skript
-guid: "6118b62c-965b-40ec-b081-19c0400219e4"
+guid: "daa20774-919a-4348-909c-a0c673a4e62e"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -69,10 +69,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"

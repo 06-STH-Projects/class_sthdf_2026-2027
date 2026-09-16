@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T09:33:55.811220+00:00"
+fm_build: "2026-09-16T10:48:51.343903+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "839b80aa-d1db-4f45-bcef-2eeb83cc1db9"
+guid: "aed1cfa1-2130-4b81-be88-25bdfab5384b"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 11:33"
+created: "2026-09-16 12:48"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 11:33"
+modified: "2026-09-16 12:48"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -131,7 +131,7 @@ fm_reserved1: ""
 fm_reserved2: ""
 ---
 
-<!-- class_sthdf_dashboard_INSTANCE_ID: class_sthdf_dashboard_2026-2027 -->
+<!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 - [ST001](./ST001/index.md)
 - [ST002](./ST002/index.md)
@@ -193,3 +193,20 @@ fm_reserved2: ""
 - [ST058](./ST058/index.md)
 - [ST059](./ST059/index.md)
 - [ST060](./ST060/index.md)
+- [ST061](./ST061/index.md)
+- [ST062](./ST062/index.md)
+- [ST063](./ST063/index.md)
+- [ST064](./ST064/index.md)
+- [ST065](./ST065/index.md)
+- [ST066](./ST066/index.md)
+- [ST067](./ST067/index.md)
+- [ST068](./ST068/index.md)
+- [ST069](./ST069/index.md)
+- [ST070](./ST070/index.md)
+- [ST071](./ST071/index.md)
+- [ST072](./ST072/index.md)
+- [ST073](./ST073/index.md)
+- [ST074](./ST074/index.md)
+- [ST075](./ST075/index.md)
+- [ST076](./ST076/index.md)
+- [ST077](./ST077/index.md)
