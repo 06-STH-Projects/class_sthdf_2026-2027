@@ -12,6 +12,7 @@ fm_version_comment: ""
 # 🆔 IDENTITY --------------------------------------------------------
 
 # ID generuje CLI / skript
+id: "7ds-01-7ds_2026-2027-07.D7-LessonLearned-04.Proposals"
 
 # Unikátne UUID – generuje skript
 guid: "add89480-d26c-451f-867c-7cb9187c459f"

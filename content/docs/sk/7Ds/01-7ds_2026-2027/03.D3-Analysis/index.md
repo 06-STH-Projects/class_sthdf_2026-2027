@@ -12,6 +12,7 @@ fm_version_comment: ""
 # 🆔 IDENTITY --------------------------------------------------------
 
 # ID generuje CLI / skript
+id: "7ds-01-7ds_2026-2027-03.D3-Analysis"
 
 # Unikátne UUID – generuje skript
 guid: "5b9706b6-ffed-4480-bbaa-00849d4d5c73"

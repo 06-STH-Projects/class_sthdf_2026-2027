@@ -12,6 +12,7 @@ fm_version_comment: ""
 # 🆔 IDENTITY --------------------------------------------------------
 
 # ID generuje CLI / skript
+id: "7ds-01-7ds_2026-2027-01.D1-Management-02.Strategy-Docusaurus-Guide"
 
 # Unikátne UUID – generuje skript
 guid: "84fb4d94-eab3-4fa3-a948-b58711146586"

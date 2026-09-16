@@ -12,6 +12,7 @@ fm_version_comment: ""
 # 🆔 IDENTITY --------------------------------------------------------
 
 # ID generuje CLI / skript
+id: "7ds-01-7ds_2026-2027-01.D1-Management-05.WorkActivitiesEvidence-2025-202509-20250917-Knifes-Duplicity-scripts"
 
 # Unikátne UUID – generuje skript
 guid: "1461a041-ab81-46b5-a32b-1ed5603ffc13"
