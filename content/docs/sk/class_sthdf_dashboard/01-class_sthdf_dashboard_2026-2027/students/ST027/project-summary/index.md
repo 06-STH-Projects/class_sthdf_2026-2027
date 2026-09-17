@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T10:48:51.248300+00:00"
+fm_build: "2026-09-17T09:24:30.424963+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "1f0ed8f2-3f21-4b02-810e-cb8a7414bd97"
+guid: "98711112-cee9-42e2-a34c-25b28cbfd2bd"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 12:48"
+created: "2026-09-17 11:24"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 12:48"
+modified: "2026-09-17 11:24"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -134,4 +134,71 @@ fm_reserved2: ""
 <!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 [🏠 Domov](../../../index.md) · [⬅️ Nahor](../)
-# ST027 — project-summary
+# 📝 ST027 — Project Summary
+
+## 🔖 Identifikácia
+## 1️⃣ Názov projektu
+*(Jasný, výstižný, inšpiratívny – ako by sa mal objaviť na plagáte.)*
+- **Názov projektu:** `PRJ_XXX_<Názov>_<ST_XXX>_<ST_XXX>`
+- **Stručný popis:** 2–3 vety
+
+## 2️⃣ Členovia tímu
+
+| ST ID | Meno | Rola v tíme | Kompetencie |
+|-------|------|-------------|-------------|
+| ST027 |      | Project Lead | koordinácia |
+| ST002 |      | Developer | implementácia |
+| ST003 |      | Designer | UI/UX |
+
+## 3️⃣ Motivácia tímu
+- Prečo ste si vybrali tento projekt?
+- Aký osobný alebo profesný zmysel má pre vás riešenie tejto témy?
+- Prečo je projekt dôležitý
+- Aký problém rieši
+
+## 4️⃣ Cieľ a pridaná hodnota projektu
+- Aký je finálny cieľ
+- Ako spoznáme, že projekt je úspešný
+
+## 5️⃣ Popis riešenia
+- Stručne opíšte architektúru, nástroje a technológie, ktoré použijete.
+- Zamerajte sa na **"čo"** riešite, nie ešte "ako".
+
+## 6️⃣ Projektový plán
+- Odhadovaný čas na prácu: _x hodín / týždeň_
+- Predpokladaný stav v čase prezentácie: _MVP / prototyp / dokumentácia / funkčný produkt_
+- Hlavné míľniky:
+  - [ ] Príprava
+  - [ ] Implementácia
+  - [ ] Testovanie
+  - [ ] Prezentácia
+
+### 📅 Míľniky a výstupy
+- **Do januára dodáme:**
+  - [ ] prototyp
+  - [ ] prezentáciu
+  - [ ] dokumentáciu
+
+## 7️⃣ Zákazník a hodnoty
+- Kto by mohol byť používateľom projektu?
+- Čo mu to prinesie?
+
+## 8️⃣ Očakávané výstupy
+- Dokumentácia: (napr. README, KNIFE článok, demo stránka...)
+- Artefakty: (napr. prototyp, appka, vizualizácia...)
+
+## 📚 Kontext
+- KNIFE príspevky, literatúra, inšpirácie
+
+## 🧭 Riziká a závislosti
+- Riziká projektu
+- Na čom závisí
+
+## 9️⃣ Reflexia a ďalšie kroky
+Čo očakávate, že sa naučíte?
+Ako by sa projekt mohol rozvíjať ďalej?
+
+---
+
+## Navigácia
+- [↩️ Späť](../index.md)

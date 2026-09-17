@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T10:48:51.293538+00:00"
+fm_build: "2026-09-17T09:24:30.509394+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "64ad468c-826b-4277-95d7-d5d7e53aa136"
+guid: "8e553706-2375-4d5a-a637-24e0f92a462b"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 12:48"
+created: "2026-09-17 11:24"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 12:48"
+modified: "2026-09-17 11:24"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -134,4 +134,13 @@ fm_reserved2: ""
 <!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 [🏠 Domov](../../../index.md) · [⬅️ Nahor](../)
-# ST050 — knowledge-contribution
+# ST050 — Knowledge Contribution
+
+Toto deliverable je v systéme reprezentované ako **KNIFE** — samostatný
+príspevok so štandardnou KNIFE štruktúrou (účel, princíp, aplikácia,
+detailný článok, tipy, hodnota).
+
+- [KC001](./KC001.md) — prvý príspevok
+
+> Ak prispievaš viackrát počas semestra, pridaj `KC002.md`, `KC003.md`
+> atď. do tohto priečinka a odkaz sem doplň.

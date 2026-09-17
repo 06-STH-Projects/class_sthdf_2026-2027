@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T10:48:51.252491+00:00"
+fm_build: "2026-09-17T09:24:30.432062+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "ca24e6c6-a2eb-4e48-96f4-38639825b730"
+guid: "fd70d9f0-f700-44f6-b498-0ce15985db6d"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 12:48"
+created: "2026-09-17 11:24"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 12:48"
+modified: "2026-09-17 11:24"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -134,4 +134,24 @@ fm_reserved2: ""
 <!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 [🏠 Domov](../../../index.md) · [⬅️ Nahor](../)
-# ST029 — about-me
+# ST029 — About Me
+
+## 🔖 Základné informácie
+- Meno a priezvisko
+- Študentský GitHub profil (link)
+- Kontaktný e-mail
+
+## 🎯 Profesijné záujmy
+- Oblasti, ktoré ma bavia (IT, dizajn, podnikanie, …)
+- Aké skúsenosti by som chcel získať
+
+## 💡 Moje hobby / záujmy
+- Šport, hudba, varenie, cestovanie …
+- Čokoľvek, čo odhaľuje „ľudskú stránku"
+
+## 🚀 Očakávania od predmetu
+- Čo chcem dosiahnuť v rámci kurzu
+- Čo očakávam od spolupráce s tímom a komunitou
+
+## 🚀 Čo viem ponúknuť
+- Čo chcem ponúknuť v rámci kurzu

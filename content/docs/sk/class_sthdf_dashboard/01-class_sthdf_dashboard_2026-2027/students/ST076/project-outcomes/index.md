@@ -3,7 +3,7 @@
 fm_version: "1.0.1"
 
 # Dátum buildu – generuje skript
-fm_build: "2026-09-16T10:48:51.341294+00:00"
+fm_build: "2026-09-17T09:24:30.600605+00:00"
 
 # Poznámka k verzii – voliteľné
 fm_version_comment: ""
@@ -14,7 +14,7 @@ fm_version_comment: ""
 # ID generuje CLI / skript
 
 # Unikátne UUID – generuje skript
-guid: "90f2492b-bbbe-43a3-8bec-93580b92dde2"
+guid: "2921edd5-abfc-4830-ad1d-beefb6235399"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -68,10 +68,10 @@ locale: "sk"
 # 🕒 LIFECYCLE --------------------------------------------------------
 
 # Dátum vytvorenia – generuje skript
-created: "2026-09-16 12:48"
+created: "2026-09-17 11:24"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-09-16 12:48"
+modified: "2026-09-17 11:24"
 
 # Stav dokumentu – default "backlog"
 status: "backlog"
@@ -134,4 +134,29 @@ fm_reserved2: ""
 <!-- class_sthdf_dashboard_INSTANCE_ID: 01-class_sthdf_dashboard_2026-2027 -->
 
 [🏠 Domov](../../../index.md) · [⬅️ Nahor](../)
-# ST076 — project-outcomes
+# 📦 ST076 — Project Outcomes
+
+## 🔖 Stav projektu
+- Stručný update (čo funguje, čo nie)
+
+## 🧩 Výstupy podľa SDLC / V-modelu
+1. Business požiadavky
+2. Top Level Architecture
+3. Solution Architecture
+4. Analysis
+5. Design
+6. Implementation
+7. Verification & Testing
+8. Operation
+
+## 🏆 Finálny produkt
+- Čo tím reálne dodal
+- Ako to vyzerá (screenshoty, demo, repo link)
+
+## 🧭 Porovnanie s Project Summary
+- Čo sme plánovali vs. čo sme naozaj dodali
+
+---
+
+## Navigácia
+- [↩️ Späť](../index.md)
