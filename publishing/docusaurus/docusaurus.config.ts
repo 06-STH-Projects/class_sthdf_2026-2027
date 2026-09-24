@@ -70,7 +70,8 @@ const config: Config = {
       items: [
         { type: 'localeDropdown', position: 'left' },
         { href: '/sk/knifes/', label: '🔪 KNIFE', position: 'left' },
-        { to: '/en/knifes/', label: '🔪 KNIFE (EN)', position: 'left' },
+        // absolútna URL: v en-locale builde (baseUrl /en/) by interný odkaz /en/knifes/ skončil ako broken link
+        { href: `${SITE_URL.replace(/\/$/, '')}${BASE_URL}en/knifes/`, label: '🔪 KNIFE (EN)', position: 'left' },
         { href: '/sk/7Ds/', label: '🧭 7Ds', position: 'left' },
         { href: '/sk/sthdf/', label: '🏫 STHDF', position: 'left' },
         { to: '/sk/about', label: 'About', position: 'right' },
