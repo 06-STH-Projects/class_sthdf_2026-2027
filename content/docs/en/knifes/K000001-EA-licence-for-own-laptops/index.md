@@ -125,9 +125,3 @@ statement of the two things that most often go wrong: the time window
 Instructions for obtaining a licence for Enterprise Architect on your
 own laptops (FIIT STU). A school-specific KNIFE kept in the class
 repository, deliberately not in the canonical KNIFE repository.
-
-<!-- body:start -->
-
-<!-- nav:knifes -->
-> [⬅ KNIFES – Overview](../knifes_overview/KNIFE_Overview_Blog.md) • [List](../knifes_overview/KNIFE_Overview_List.md) • [Details](../knifes_overview/KNIFE_Overview_Details.md)
----
