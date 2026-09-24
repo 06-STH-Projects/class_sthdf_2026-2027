@@ -1,7 +1,7 @@
 "use strict";
-(globalThis["webpackChunkknife_preview"] = globalThis["webpackChunkknife_preview"] || []).push([[4046],{
+(globalThis["webpackChunkknife_preview"] = globalThis["webpackChunkknife_preview"] || []).push([[40865],{
 
-/***/ 4545:
+/***/ 14030:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -13,57 +13,58 @@ __webpack_require__.d(__webpack_exports__, {
   contentTitle: () => (/* binding */ contentTitle),
   "default": () => (/* binding */ MDXContent),
   frontMatter: () => (/* binding */ frontMatter),
-  metadata: () => (/* reexport */ site_docs_en_knifes_index_md_196_namespaceObject),
+  metadata: () => (/* reexport */ site_docs_sk_knifes_knifes_overview_knife_overview_details_md_2e7_namespaceObject),
   toc: () => (/* binding */ toc)
 });
 
-;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-en-knifes-index-md-196.json
-const site_docs_en_knifes_index_md_196_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"en/knifes/KNIFE_OVERVIEW_HOME_EN","title":"KNIFE – Overview (EN)","description":"","source":"@site/docs/en/knifes/index.md","sourceDirName":"en/knifes","slug":"/en/knifes/","permalink":"/en/knifes/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"fm_version":"1.0.1","fm_build":"2025-10-12T10:35:00Z","fm_version_comment":"Added field fm_version_comment to document reasons for FM updates","id":"KNIFE_OVERVIEW_HOME_EN","guid":"fae1ca43-0ec4-4fea-9306-4490f5d3e13d","dao":"knife","title":"KNIFE – Overview (EN)","description":"","author":"Roman Kazička","authors":["Roman Kazička",""],"category":"","type":"","priority":"no","tags":[],"locale":"en","created":"2025-09-24","modified":"YYYY-MM-DDTHH:MM:SSZ","status":"backlog","privacy":"public","rights_holder_content":"Roman Kazička","rights_holder_system":"Roman Kazička (CAA/KNIFE/LetItGrow)","license":"CC-BY-NC-SA-4.0","disclaimer":"Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.","copyright":"© 2025 Roman Kazička / SystemThinking","origin_repo":"","origin_repo_url":"","origin_commit":"","origin_system":"","author_id":"","author_did":"","fm_reserved1":"","fm_reserved2":""}}');
+;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-sk-knifes-knifes-overview-knife-overview-details-md-2e7.json
+const site_docs_sk_knifes_knifes_overview_knife_overview_details_md_2e7_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"sk/knifes/knifes_overview/KNIFE_OVERVIEW_DETAILS","title":"📊 KNIFE Overview – Details","description":"{{DESCRIPTION}}","source":"@site/docs/sk/knifes/knifes_overview/KNIFE_Overview_Details.md","sourceDirName":"sk/knifes/knifes_overview","slug":"/sk/knifes/knifes_overview/KNIFE_OVERVIEW_DETAILS","permalink":"/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_DETAILS","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"fm_version":"1.0.1","fm_build":"{{FM_BUILD}}","fm_version_comment":"","id":"KNIFE_OVERVIEW_DETAILS","guid":"00eb348f-79dc-4b21-9d8b-b55852e5634d","dao":"{{DAO}}","title":"📊 KNIFE Overview – Details","description":"{{DESCRIPTION}}","author":"Roman Kazička","authors":["Roman Kazička"],"category":"","type":"","priority":"","tags":[],"locale":"sk","created":"2026-09-24","modified":"","status":"backlog","privacy":"public","rights_holder_content":"Roman Kazička","rights_holder_system":"CAA / KNIFE / LetItGrow","license":"CC-BY-NC-SA-4.0","disclaimer":"Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.","copyright":"© 2025 Roman Kazička","origin_repo":"","origin_repo_url":"","origin_commit":"","origin_branch":"","origin_system":"CAA","origin_author":"Roman Kazička","origin_imported_from":"","origin_import_date":"","fm_reserved1":"","fm_reserved2":""},"sidebar":"tutorialSidebar","previous":{"title":"📰 KNIFE Overview – Blog","permalink":"/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_BLOG"},"next":{"title":"🗂 KNIFE Overview – List","permalink":"/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_LIST"}}');
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(74848);
 // EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
 var lib = __webpack_require__(28453);
-;// ./docs/en/knifes/index.md
+;// ./docs/sk/knifes/knifes_overview/KNIFE_Overview_Details.md
 
 
 const frontMatter = {
 	fm_version: '1.0.1',
-	fm_build: '2025-10-12T10:35:00Z',
-	fm_version_comment: 'Added field fm_version_comment to document reasons for FM updates',
-	id: 'KNIFE_OVERVIEW_HOME_EN',
-	guid: 'fae1ca43-0ec4-4fea-9306-4490f5d3e13d',
-	dao: 'knife',
-	title: 'KNIFE – Overview (EN)',
-	description: '',
+	fm_build: '{{FM_BUILD}}',
+	fm_version_comment: '',
+	id: 'KNIFE_OVERVIEW_DETAILS',
+	guid: '00eb348f-79dc-4b21-9d8b-b55852e5634d',
+	dao: '{{DAO}}',
+	title: '📊 KNIFE Overview – Details',
+	description: '{{DESCRIPTION}}',
 	author: 'Roman Kazička',
 	authors: [
-		'Roman Kazička',
-		''
+		'Roman Kazička'
 	],
 	category: '',
 	type: '',
-	priority: 'no',
+	priority: '',
 	tags: [],
-	locale: 'en',
-	created: '2025-09-24',
-	modified: 'YYYY-MM-DDTHH:MM:SSZ',
+	locale: 'sk',
+	created: '2026-09-24',
+	modified: '',
 	status: 'backlog',
 	privacy: 'public',
 	rights_holder_content: 'Roman Kazička',
-	rights_holder_system: 'Roman Kazička (CAA/KNIFE/LetItGrow)',
+	rights_holder_system: 'CAA / KNIFE / LetItGrow',
 	license: 'CC-BY-NC-SA-4.0',
 	disclaimer: 'Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.',
-	copyright: '© 2025 Roman Kazička / SystemThinking',
+	copyright: '© 2025 Roman Kazička',
 	origin_repo: '',
 	origin_repo_url: '',
 	origin_commit: '',
-	origin_system: '',
-	author_id: '',
-	author_did: '',
+	origin_branch: '',
+	origin_system: 'CAA',
+	origin_author: 'Roman Kazička',
+	origin_imported_from: '',
+	origin_import_date: '',
 	fm_reserved1: '',
 	fm_reserved2: ''
 };
-const contentTitle = '📋 KNIFEs Overview';
+const contentTitle = '📊 KNIFE Overview – Details';
 
 const assets = {
 
@@ -74,6 +75,7 @@ const assets = {
 const toc = [];
 function _createMdxContent(props) {
   const _components = {
+    a: "a",
     blockquote: "blockquote",
     code: "code",
     h1: "h1",
@@ -92,15 +94,15 @@ function _createMdxContent(props) {
   return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
     children: [(0,jsx_runtime.jsx)(_components.header, {
       children: (0,jsx_runtime.jsx)(_components.h1, {
-        id: "-knifes-overview",
-        children: "📋 KNIFEs Overview"
+        id: "-knife-overview--details",
+        children: "📊 KNIFE Overview – Details"
       })
     }), "\n", (0,jsx_runtime.jsxs)(_components.blockquote, {
       children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
           children: "GUID:"
         }), " ", (0,jsx_runtime.jsx)(_components.code, {
-          children: "fae1ca43-0ec4-4fea-9306-4490f5d3e13d"
+          children: "00eb348f-79dc-4b21-9d8b-b55852e5634d"
         }), "\n", (0,jsx_runtime.jsx)(_components.strong, {
           children: "Status:"
         }), " ", (0,jsx_runtime.jsx)(_components.code, {
@@ -111,43 +113,53 @@ function _createMdxContent(props) {
           children: "License:"
         }), " CC-BY-NC-SA-4.0"]
       }), "\n"]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.a, {
+        href: "/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_BLOG",
+        children: "📰 Blog"
+      }), " | ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_LIST",
+        children: "🗂 List"
+      }), " | ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: (0,jsx_runtime.jsx)(_components.a, {
+          href: "/en/sk/knifes/knifes_overview/KNIFE_OVERVIEW_DETAILS",
+          children: "📊 Details"
+        })
+      }), " | ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "/en/sk/knifes/",
+        children: "↩️ KNIFES"
+      })]
     }), "\n", (0,jsx_runtime.jsxs)(_components.table, {
       children: [(0,jsx_runtime.jsx)(_components.thead, {
         children: (0,jsx_runtime.jsxs)(_components.tr, {
           children: [(0,jsx_runtime.jsx)(_components.th, {
             children: "ID"
           }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Category"
-          }), (0,jsx_runtime.jsx)(_components.th, {
             children: "Title"
+          }), (0,jsx_runtime.jsx)(_components.th, {
+            children: "Created"
           }), (0,jsx_runtime.jsx)(_components.th, {
             children: "Status"
           }), (0,jsx_runtime.jsx)(_components.th, {
-            style: {
-              textAlign: "right"
-            },
             children: "Priority"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Type"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Date"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Author"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Org"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Project"
           })]
         })
       }), (0,jsx_runtime.jsx)(_components.tbody, {
         children: (0,jsx_runtime.jsxs)(_components.tr, {
           children: [(0,jsx_runtime.jsx)(_components.td, {
-            children: "ghghghghghghghghghh"
-          }), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {
-            style: {
-              textAlign: "right"
-            }
-          }), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {})]
+            children: "K000119"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: (0,jsx_runtime.jsx)(_components.a, {
+              href: "/en/sk/knifes/K000119-klon-triedneho-repozitara/",
+              children: "K000119 – Ako si vytvoriť čistý klon triedneho repozitára"
+            })
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "2026-09-16 09:04"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "published"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "medium"
+          })]
         })
       })]
     })]
