@@ -279,7 +279,7 @@ module.exports = hoistNonReactStatics;
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
-  "title": "KNIFE Overview",
+  "title": "KNIFE - Class STHDF 2026-2027 - Dashboard",
   "url": "https://sthdf-2026.systemthinking.sk",
   "baseUrl": "/",
   "deploymentBranch": "gh-pages",
@@ -312,7 +312,7 @@ module.exports = hoistNonReactStatics;
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "KNIFE Overview",
+      "title": "KNIFE - Class STHDF 2026-2027 - Dashboard",
       "logo": {
         "alt": "KNIFE",
         "src": "img/logo.png",
@@ -352,8 +352,8 @@ module.exports = hoistNonReactStatics;
           "position": "right"
         },
         {
-          "href": "https://github.com/KNIFE-Framework/knifes_overview/commit/51e7e6d",
-          "label": "Release 51e7e6d • 51e7e6d",
+          "href": "https://github.com/KNIFE-Framework/knifes_overview/commit/a8f0871",
+          "label": "Release a8f0871 • a8f0871",
           "position": "right"
         }
       ],
@@ -361,7 +361,7 @@ module.exports = hoistNonReactStatics;
     },
     "footer": {
       "style": "dark",
-      "copyright": "\n  <div style=\"text-align:center;\">\n    © 2026 SystemThinking<br/>\n    🔖 Release: <strong>51e7e6d</strong><br/>\n    💡 Commit: <code>51e7e6d</code><br/>\n    🕒 Build: 2026-09-24 18:33:13 UTC\n  </div>\n",
+      "copyright": "\n  <div style=\"text-align:center;\">\n    © 2026 SystemThinking<br/>\n    🔖 Release: <strong>a8f0871</strong><br/>\n    💡 Commit: <code>a8f0871</code><br/>\n    🕒 Build: 2026-09-24 18:41:25 UTC\n  </div>\n",
       "links": []
     },
     "prism": {
