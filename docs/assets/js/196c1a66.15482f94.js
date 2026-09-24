@@ -18,7 +18,7 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 ;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-en-knifes-index-md-196.json
-const site_docs_en_knifes_index_md_196_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"en/knifes/KNIFE_OVERVIEW_HOME_EN","title":"KNIFE – Overview (EN)","description":"","source":"@site/docs/en/knifes/index.md","sourceDirName":"en/knifes","slug":"/en/knifes/","permalink":"/en/knifes/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"fm_version":"1.0.1","fm_build":"2025-10-12T10:35:00Z","fm_version_comment":"Added field fm_version_comment to document reasons for FM updates","id":"KNIFE_OVERVIEW_HOME_EN","guid":"fae1ca43-0ec4-4fea-9306-4490f5d3e13d","dao":"knife","title":"KNIFE – Overview (EN)","description":"","author":"Roman Kazička","authors":["Roman Kazička",""],"category":"","type":"","priority":"no","tags":[],"locale":"en","created":"2025-09-24","modified":"YYYY-MM-DDTHH:MM:SSZ","status":"backlog","privacy":"public","rights_holder_content":"Roman Kazička","rights_holder_system":"Roman Kazička (CAA/KNIFE/LetItGrow)","license":"CC-BY-NC-SA-4.0","disclaimer":"Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.","copyright":"© 2025 Roman Kazička / SystemThinking","origin_repo":"","origin_repo_url":"","origin_commit":"","origin_system":"","author_id":"","author_did":"","fm_reserved1":"","fm_reserved2":""},"sidebar":"tutorialSidebar","previous":{"title":"K000001 – Enterprise Architect licence on your own laptop","permalink":"/en/knifes/K000001-EA-licence-for-own-laptops/"}}');
+const site_docs_en_knifes_index_md_196_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"en/knifes/EN_KNIFES_HOME","title":"EN_KNIFES_HOME – KNIFES (EN)","description":"Introduction to the KNIFES section.","source":"@site/docs/en/knifes/index.md","sourceDirName":"en/knifes","slug":"/en/knifes/","permalink":"/en/knifes/","draft":false,"unlisted":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"fm_version":"1.0.1","fm_build":"2025-10-28T00:00:00Z","fm_version_comment":"Stable ID/slug for navigation (hub + SK + EN)","id":"EN_KNIFES_HOME","guid":"fae1ca43-0ec4-4fea-9306-4490f5d3e13d","dao":"knife","title":"EN_KNIFES_HOME – KNIFES (EN)","description":"Introduction to the KNIFES section.","author":"Roman Kazička","authors":["Roman Kazička"],"category":"","type":"","priority":"no","tags":[],"locale":"en","created":"2025-10-28","modified":"YYYY-MM-DDTHH:MM:SSZ","status":"draft","privacy":"public","rights_holder_content":"Roman Kazička","rights_holder_system":"Roman Kazička (CAA/KNIFE/LetItGrow)","license":"CC-BY-NC-SA-4.0","disclaimer":"Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.","copyright":"© 2025 Roman Kazička / SystemThinking","origin_repo":"","origin_repo_url":"","origin_commit":"","origin_system":"","author_id":"","author_did":"","fm_reserved1":"","fm_reserved2":"","sidebar_position":1,"sidebar_label":"EN_KNIFES_HOME – KNIFES (EN)"},"sidebar":"tutorialSidebar","previous":{"title":"Q12 (SK)","permalink":"/sk/q12/"},"next":{"title":"K000001 – Enterprise Architect licence on your own laptop","permalink":"/en/knifes/K000001-EA-licence-for-own-laptops/"}}');
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(74848);
 // EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
@@ -28,26 +28,25 @@ var lib = __webpack_require__(28453);
 
 const frontMatter = {
 	fm_version: '1.0.1',
-	fm_build: '2025-10-12T10:35:00Z',
-	fm_version_comment: 'Added field fm_version_comment to document reasons for FM updates',
-	id: 'KNIFE_OVERVIEW_HOME_EN',
+	fm_build: '2025-10-28T00:00:00Z',
+	fm_version_comment: 'Stable ID/slug for navigation (hub + SK + EN)',
+	id: 'EN_KNIFES_HOME',
 	guid: 'fae1ca43-0ec4-4fea-9306-4490f5d3e13d',
 	dao: 'knife',
-	title: 'KNIFE – Overview (EN)',
-	description: '',
+	title: 'EN_KNIFES_HOME – KNIFES (EN)',
+	description: 'Introduction to the KNIFES section.',
 	author: 'Roman Kazička',
 	authors: [
-		'Roman Kazička',
-		''
+		'Roman Kazička'
 	],
 	category: '',
 	type: '',
 	priority: 'no',
 	tags: [],
 	locale: 'en',
-	created: '2025-09-24',
+	created: '2025-10-28',
 	modified: 'YYYY-MM-DDTHH:MM:SSZ',
-	status: 'backlog',
+	status: 'draft',
 	privacy: 'public',
 	rights_holder_content: 'Roman Kazička',
 	rights_holder_system: 'Roman Kazička (CAA/KNIFE/LetItGrow)',
@@ -61,9 +60,11 @@ const frontMatter = {
 	author_id: '',
 	author_did: '',
 	fm_reserved1: '',
-	fm_reserved2: ''
+	fm_reserved2: '',
+	sidebar_position: 1,
+	sidebar_label: 'EN_KNIFES_HOME – KNIFES (EN)'
 };
-const contentTitle = '📋 KNIFEs Overview';
+const contentTitle = 'KNIFES (EN)';
 
 const assets = {
 
@@ -71,84 +72,61 @@ const assets = {
 
 
 
-const toc = [];
+const toc = [{
+  "value": "📊 KNIFE overviews",
+  "id": "-knife-overviews",
+  "level": 2
+}];
 function _createMdxContent(props) {
   const _components = {
-    blockquote: "blockquote",
-    code: "code",
+    a: "a",
+    em: "em",
     h1: "h1",
+    h2: "h2",
     header: "header",
+    hr: "hr",
+    li: "li",
     p: "p",
-    strong: "strong",
-    table: "table",
-    tbody: "tbody",
-    td: "td",
-    th: "th",
-    thead: "thead",
-    tr: "tr",
+    ul: "ul",
     ...(0,lib/* useMDXComponents */.R)(),
     ...props.components
   };
   return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
     children: [(0,jsx_runtime.jsx)(_components.header, {
       children: (0,jsx_runtime.jsx)(_components.h1, {
-        id: "-knifes-overview",
-        children: "📋 KNIFEs Overview"
+        id: "knifes-en",
+        children: "KNIFES (EN)"
       })
-    }), "\n", (0,jsx_runtime.jsxs)(_components.blockquote, {
-      children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "GUID:"
-        }), " ", (0,jsx_runtime.jsx)(_components.code, {
-          children: "fae1ca43-0ec4-4fea-9306-4490f5d3e13d"
-        }), "\n", (0,jsx_runtime.jsx)(_components.strong, {
-          children: "Status:"
-        }), " ", (0,jsx_runtime.jsx)(_components.code, {
-          children: "backlog"
-        }), " · ", (0,jsx_runtime.jsx)(_components.strong, {
-          children: "Author:"
-        }), " Roman Kazička · ", (0,jsx_runtime.jsx)(_components.strong, {
-          children: "License:"
-        }), " CC-BY-NC-SA-4.0"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Index of KNIFE articles."
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "-knife-overviews",
+      children: "📊 KNIFE overviews"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Quick links to overviews of all KNIFE entries from different perspectives:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["📰 ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "/en/knifes/knifes_overview/KNIFE_OVERVIEW_BLOG",
+          children: "Blog overview"
+        }), " — sorted by ID, with creation date."]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["🗂️ ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "/en/knifes/knifes_overview/KNIFE_OVERVIEW_LIST",
+          children: "List overview"
+        }), " — short list with status and priority."]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["📈 ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "/en/knifes/knifes_overview/KNIFE_OVERVIEW_DETAILS",
+          children: "Detailed overview"
+        }), " — table with ID, date, status and priority."]
       }), "\n"]
-    }), "\n", (0,jsx_runtime.jsxs)(_components.table, {
-      children: [(0,jsx_runtime.jsx)(_components.thead, {
-        children: (0,jsx_runtime.jsxs)(_components.tr, {
-          children: [(0,jsx_runtime.jsx)(_components.th, {
-            children: "ID"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Category"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Title"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Status"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            style: {
-              textAlign: "right"
-            },
-            children: "Priority"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Type"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Date"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Author"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Org"
-          }), (0,jsx_runtime.jsx)(_components.th, {
-            children: "Project"
-          })]
-        })
-      }), (0,jsx_runtime.jsx)(_components.tbody, {
-        children: (0,jsx_runtime.jsxs)(_components.tr, {
-          children: [(0,jsx_runtime.jsx)(_components.td, {
-            children: "ghghghghghghghghghh"
-          }), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {
-            style: {
-              textAlign: "right"
-            }
-          }), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {}), (0,jsx_runtime.jsx)(_components.td, {})]
-        })
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["📚 ", (0,jsx_runtime.jsxs)(_components.em, {
+        children: ["To return to the documentation home page, click ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "/en/",
+          children: "🧭 Hub"
+        })]
       })]
     })]
   });
