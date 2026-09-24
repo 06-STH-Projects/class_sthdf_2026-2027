@@ -352,8 +352,8 @@ module.exports = hoistNonReactStatics;
           "position": "right"
         },
         {
-          "href": "https://github.com/KNIFE-Framework/knifes_overview/commit/0ac9802",
-          "label": "Release 0ac9802 • 0ac9802",
+          "href": "https://github.com/KNIFE-Framework/knifes_overview/commit/51605ab",
+          "label": "Release 51605ab • 51605ab",
           "position": "right"
         }
       ],
@@ -361,7 +361,7 @@ module.exports = hoistNonReactStatics;
     },
     "footer": {
       "style": "dark",
-      "copyright": "\n  <div style=\"text-align:center;\">\n    © 2026 SystemThinking<br/>\n    🔖 Release: <strong>0ac9802</strong><br/>\n    💡 Commit: <code>0ac9802</code><br/>\n    🕒 Build: 2026-09-24 18:20:12 UTC\n  </div>\n",
+      "copyright": "\n  <div style=\"text-align:center;\">\n    © 2026 SystemThinking<br/>\n    🔖 Release: <strong>51605ab</strong><br/>\n    💡 Commit: <code>51605ab</code><br/>\n    🕒 Build: 2026-09-24 18:32:14 UTC\n  </div>\n",
       "links": []
     },
     "prism": {
