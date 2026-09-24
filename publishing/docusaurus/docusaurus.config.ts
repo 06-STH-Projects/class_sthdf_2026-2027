@@ -20,10 +20,9 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
   favicon: 'img/favicon.ico',
 
-  i18n: {
-    defaultLocale: 'sk',
-    locales: ['sk', 'en'],
-  },
+  // i18n vypnuté – SK/EN riešené cez adresárovú štruktúru docs/sk/ + docs/en/
+  // Bez tohto bloku Docusaurus nerobí locale prefix logiku (/en/sk/... problém)
+  // Rovnako ako v kanonickom knifes_overview-03 (SSOT).
 
   presets: [
     [
@@ -68,10 +67,8 @@ const config: Config = {
         href: '/', // ← sem vložíš svoj cieľový link
       },
       items: [
-        { type: 'localeDropdown', position: 'left' },
         { href: '/sk/knifes/', label: '🔪 KNIFE', position: 'left' },
-        // absolútna URL: v en-locale builde (baseUrl /en/) by interný odkaz /en/knifes/ skončil ako broken link
-        { href: `${SITE_URL.replace(/\/$/, '')}${BASE_URL}en/knifes/`, label: '🔪 KNIFE (EN)', position: 'left' },
+        { href: '/en/knifes/', label: '🔪 KNIFE (EN)', position: 'left' },
         { href: '/sk/7Ds/', label: '🧭 7Ds', position: 'left' },
         { href: '/sk/sthdf/', label: '🏫 STHDF', position: 'left' },
         { to: '/sk/about', label: 'About', position: 'right' },
