@@ -70,7 +70,7 @@ const config: Config = {
       items: [
         { type: 'localeDropdown', position: 'left' },
         { href: '/sk/knifes/', label: '🔪 KNIFE', position: 'left' },
-        { href: '/en/knifes/', label: '🔪 KNIFE (EN)', position: 'left' },
+        { to: '/en/knifes/', label: '🔪 KNIFE (EN)', position: 'left' },
         { href: '/sk/7Ds/', label: '🧭 7Ds', position: 'left' },
         { href: '/sk/sthdf/', label: '🏫 STHDF', position: 'left' },
         { to: '/sk/about', label: 'About', position: 'right' },
