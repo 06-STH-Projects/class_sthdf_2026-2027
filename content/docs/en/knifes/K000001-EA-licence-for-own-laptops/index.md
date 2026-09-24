@@ -23,7 +23,7 @@ locale: "en"
 
 created: "2026-09-24 19:30"
 modified: "2026-09-24 19:30"
-status: "backlog"
+status: "published"
 privacy: "public"
 
 rights_holder_content: "Roman Kazicka"
@@ -51,10 +51,6 @@ fm_reserved2: ""
 > **Series:** Systemic Thinking in IT & Digital Fabrication
 > **Level:** Beginner
 > **Tags:** `enterprise-architect` `licence` `tutorial` `onboarding` `beginner`
-
-:::caution In Progress
-This article is being actively worked on. Content may be incomplete or subject to change.
-:::
 
 ## ⚡ Quick guide (Top)
 

@@ -15,7 +15,7 @@ fm_version_comment: ""
 id: "KNIFE_OVERVIEW_DETAILS"
 
 # Unikátne UUID – generuje skript
-guid: "dc70fbb2-36d1-4f01-acff-d35407e05f92"
+guid: "679119cb-da17-48cd-ad7d-5783571801c6"
 
 
 # 🧭 CONTEXT ---------------------------------------------------------
@@ -135,7 +135,7 @@ fm_reserved2: ""
 # 📊 KNIFE Overview – Details
 
 <!-- fm-visible: start -->
-> **GUID:** `dc70fbb2-36d1-4f01-acff-d35407e05f92`
+> **GUID:** `679119cb-da17-48cd-ad7d-5783571801c6`
 > **Status:** `backlog` · **Author:** Roman Kazička · **License:** CC-BY-NC-SA-4.0
 <!-- fm-visible: end -->
 
@@ -144,4 +144,4 @@ fm_reserved2: ""
 
 | ID | Title | Created | Status | Priority |
 |---|---|---|---|---|
-| K000001_EN | [K000001 – Enterprise Architect licence on your own laptop](../K000001-EA-licence-for-own-laptops/index.md) | 2026-09-24 19:30 | backlog | medium |
+| K000001_EN | [K000001 – Enterprise Architect licence on your own laptop](../K000001-EA-licence-for-own-laptops/index.md) | 2026-09-24 19:30 | published | medium |
