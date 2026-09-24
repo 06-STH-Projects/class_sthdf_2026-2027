@@ -14,7 +14,7 @@ const commitLink =
   GITHUB_REPO_URL && COMMIT_SHA ? `${GITHUB_REPO_URL}/commit/${COMMIT_SHA}` : '';
 
 const config: Config = {
-  title: 'KNIFE Overview',
+  title: 'KNIFE - Class STHDF 2026-2027 - Dashboard',
   url: SITE_URL,
   baseUrl: BASE_URL,
   deploymentBranch: 'gh-pages',
@@ -58,7 +58,7 @@ const config: Config = {
       },
     },
     navbar: {
-      title: 'KNIFE Overview',
+      title: 'KNIFE - Class STHDF 2026-2027 - Dashboard',
       logo: {
         alt: 'KNIFE',
         src: 'img/logo.png',
