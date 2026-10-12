@@ -50,6 +50,6 @@ Toto je hlavná stránka slovenskej dokumentácie.
 - 🧱 [SDLC – Framework](./sdlc/index.md)
 - 🎯 [Q12 – Framework](./q12/index.md)
 - 🏫 [STHDF – Framework](./sthdf/index.md)
-- 🏫 [STHDF – Dashboard](./class_sthdf_dashboard/index.md)
+- 🏫 [STHDF – Dashboard](./class_sthdf_dashboard/01-class_sthdf_dashboard_2026-2027/index.md)
 - 🏫 [HELP](./help/index.md)
 - 🧭 [Späť na Hub](../index.md)

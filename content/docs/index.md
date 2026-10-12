@@ -107,8 +107,10 @@ Confluence/Bitbucket ani GitHub Classroom:
 1. Klon triedneho template repozitára — vlastný, čistý, bez cudzej histórie
    (viď [K000119](https://knifes.systemthinking.sk/sk/knifes/K000119-klon-triedneho-repozitara)).
 2. Práca vo vlastnom GitHub repozitári počas semestra.
-3. Publikovanie hotového výstupu do triedneho repozitára cez Pull Request
-   (`submissions/ST-XXX-...` alebo `submissions/PRJ-YYY-...`).
+3. Hotový výstup (7 sekcií) zdieľaš ako **odkaz na svoj repozitár** tam, kde
+   ti povie vyučujúci. Do triedneho dashboardu (`students/ST0XX/`) ho
+   premieta vyučujúci — nerobíš žiadny fork ani Pull Request do triedneho
+   repozitára.
 
 ## Meet the team
 
