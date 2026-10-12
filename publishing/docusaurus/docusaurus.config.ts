@@ -48,9 +48,14 @@ const config: Config = {
   ],
 
   // (Optional) Plugins — buildInfoPlugin disabled (file not present)
+  themes: ['@docusaurus/theme-mermaid'],
+
   plugins: [],
 
   themeConfig: {
+    mermaid: {
+      theme: { light: 'neutral', dark: 'neutral' },
+    },
     docs: {
       sidebar: {
         hideable: true,              // umožní používateľovi zložiť/rozbaliť sidebar
@@ -108,6 +113,10 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+  },
+
+  markdown: {
+    mermaid: true,
   },
 
   future: {
